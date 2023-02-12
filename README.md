@@ -1,6 +1,6 @@
 # python-rsi
 
-RSI (Relative Strength Index) written in Python bt Sanjay Gaikwad
+RSI (Relative Strength Index) written in Python by Sanjay Gaikwad
 
 ![Python RSI Image](https://github.com/mtamer/python-rsi/blob/master/src/images/example.png)
 
@@ -10,7 +10,7 @@ Relative Strength Index written in Python. The whole point of this application i
 
 At the end of pulling stock data, a table is shown displaying metrics of the stocks pulled along with a link to view the chart.
 
-![Stock Data Table](https://github.com/sanjayrgaikwad/python/src/images/pulled-data-table.png)
+![Stock Data Table](Data Table](https://github.com/sanjayrgaikwad/python/src/images/pulled-data-table.png)
 
 ## To Install
 
